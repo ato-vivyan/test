@@ -1,0 +1,10 @@
+.nuxt
+.vscode
+.eslintrc.json
+.eslintignore
+,prettierrc.json
+,prettierignore
+dist
+package.json
+yarn.lock
+README.md
